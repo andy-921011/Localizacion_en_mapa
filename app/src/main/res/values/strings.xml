@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LOCALIZACION</string>
+
+    <string name="id1">ITCA</string>
+    <string name="id2">POSICION</string>
+    <string name="id3">MARCAR</string>
+
+    <string name="a1">TERRENO</string>
+    <string name="a2">HIBRIDO</string>
+    <string name="a3">SATELITE</string>
+    <string name="a4">NORMAL</string>
+    <string name="a5">NADA</string>
+
+</resources>
